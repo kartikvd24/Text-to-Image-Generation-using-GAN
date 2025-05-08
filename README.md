@@ -94,9 +94,11 @@ Figure 1 shows the top-level workflow of the text-to-image GAN system. It starts
 
 Results
 -------
+Parameters
+Epochs:5
+Discriminator Loss: 1.1293970560856004, Generator Loss: 1.1720103672940096 after five Epochs
 
 Example outputs from the model:
-
 Text: "This yellow breasted bird has a black cheek."  
 Generated Image: (![Screenshot 2025-05-08 183623](https://github.com/user-attachments/assets/cae98228-25ec-42f4-b83e-d7055d5320f9)
 
