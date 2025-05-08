@@ -8,8 +8,6 @@ Dataset
 
 This project uses the following datasets:
 
-1This project uses the following datasets:
-
 1. **CUB-200-2011 Birds Dataset**  
    A fine-grained image dataset containing over 11,000 images across 200 bird species.  
     🔗 Download: [CUB-200-2011 Dataset](https://www.vision.caltech.edu/datasets/cub_200_2011/)
