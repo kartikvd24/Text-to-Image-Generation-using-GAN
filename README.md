@@ -90,7 +90,7 @@ Training of the model is conducted through multiple epochs, with updates iterati
 I. Workflow Summary
 Figure 1 shows the top-level workflow of the text-to-image GAN system. It starts with an input text file that describes the image, and then preprocessing and text encoding is done. 
 
-![image](https://github.com/user-attachments/assets/83624947-97bf-4490-94fb-92fcda1942d6)-architecture of GAN network
+![image]https://github.com/user-attachments/assets/83624947-97bf-4490-94fb-92fcda1942d6)-architecture of GAN network
 
 Results
 -------
